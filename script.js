@@ -17,4 +17,4 @@ if (res >=80){
         par.innerHTML = "try again";
     }else{
         par.innerHTML = "dont even try -- forget that";
-    }s
+    }
